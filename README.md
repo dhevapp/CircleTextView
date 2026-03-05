@@ -30,7 +30,7 @@ Tambahkan atribut custom di res/values/attrs.xml
 
 ## Contoh penggunaan di layout (XML)
 ```xml
-<com.example.myapp.views.CircleTextView
+<com.dhevapp.views.CircleTextView
     android:id="@+id/circleText"
     android:layout_width="64dp"
     android:layout_height="64dp"
